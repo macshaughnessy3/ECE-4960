@@ -1,0 +1,3 @@
+[submodule "PAWS"]
+	path = PAWS
+	url = https://github.com/macshaughnessy3/PAWS.git
